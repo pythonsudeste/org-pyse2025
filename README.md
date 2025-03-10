@@ -12,7 +12,7 @@ Abaixo estão as informações resumidas da organização.
 
 **Local:** Belo Horizonte, MG
 
-Para acompanhar as atividades em andamento, acesse este [link](https://github.com/orgs/pythonsudeste/projects)
+Para acompanhar as atividades em andamento, acesse este ✨ [**link**](https://github.com/orgs/pythonsudeste/projects/1) ✨
 
 ## Reuniões
 
